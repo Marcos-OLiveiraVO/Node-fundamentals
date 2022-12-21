@@ -29,3 +29,8 @@ Query Params: pega oque vier da Query da requisição.
 <br>
 Body: Params: um objeto/ geralmente (JSON).
 <br>
+
+✔ Nodemon
+<br>
+<br>
+da reload na aplicação toda vez que é alterada.
