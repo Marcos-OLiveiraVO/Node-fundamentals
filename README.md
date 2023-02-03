@@ -14,7 +14,7 @@ put: atualiza completamente
 <br>
 patch: atualiza parcialmente 
 <br>
-delete: deleta
+delete: deleta.
 <br>
 <br>
 <br>
