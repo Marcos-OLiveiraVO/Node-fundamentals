@@ -6,7 +6,7 @@ Meus guias do fundamento do node para teste
 ✔ Verbos HTTP:
 <br>
 <br>
-Get: ler
+Get: ler.
 <br>
 post: adicionar
 <br>
